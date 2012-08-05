@@ -1,1 +1,1 @@
-World of Warcraft: Cataclysm 4.3.4 (build 15595) DBC, Maps and Vmaps
+World of Warcraft: Cataclysm 4.3.4 (build 15595) DBC, Maps and Vmaps for MaNGOS (400).
